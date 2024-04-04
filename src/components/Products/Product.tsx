@@ -1,3 +1,4 @@
+// @ts-ignore
 import { Product } from "@/db";
 
 const Product = ({ product }: { product: Product }) => {
